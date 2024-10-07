@@ -35,6 +35,7 @@ export function ThemedText({
 
 const styles = StyleSheet.create({
   default: {
+    fontFamily: 'SatoshiRegular',
     fontSize: 16,
     lineHeight: 24,
   },
